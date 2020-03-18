@@ -1,3 +1,4 @@
 // Write your solution here!
 pets = []
-pets.push("Odie");
+append = pets.push("Odie");
+pets.append
