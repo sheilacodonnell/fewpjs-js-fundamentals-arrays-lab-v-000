@@ -1,4 +1,4 @@
-// Write your solution here!
-pets = []
-append = push("Odie");
-pets.append
+const append
+const prepent
+const removeLast
+const removeFirst
